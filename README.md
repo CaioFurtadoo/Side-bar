@@ -1,6 +1,6 @@
 # Side-bar
 
-<h1 align="center">Responsive-Menu</h1>
+<h1 align="center">Side-Bar</h1>
 
 <p align="center">
   Nesse projeto de prática direcionada a responsividade, realizei uma side bar com tema de petShop! Criado apenas com html, css e JS, visto que possue diversas interações com o usuario recebendo adaptações para o contexto mobile como o menu hamburguer!<br/>
